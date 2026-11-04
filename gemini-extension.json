@@ -1,0 +1,10 @@
+{
+  "name": "beyourcover",
+  "version": "1.30.0",
+  "description": "AI book covers, Amazon KDP print wraps and audiobook covers from BeYourCover's hosted MCP server.",
+  "mcpServers": {
+    "beyourcover": {
+      "httpUrl": "https://beyourcover.com/api/mcp"
+    }
+  }
+}
